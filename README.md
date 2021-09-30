@@ -12,4 +12,4 @@ I'm a second-year undergraduate from Sri Lanka.
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhawa97&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhawa97&layout=compact&theme=nord&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhawa97&layout=compact&theme=nord&hide=jupyter%20notebook,hack)](https://github.com/anuraghazra/github-readme-stats)
