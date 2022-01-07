@@ -5,6 +5,8 @@ I'm a second-year undergraduate from Sri Lanka.
 - 🌱 I’m currently learning Front-end Frameworks
 - 👯 I’m looking to collaborate on Open Source Projects
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhawamm/)
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
