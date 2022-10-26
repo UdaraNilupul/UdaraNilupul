@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, I'm Madhawa 👋
 
-I'm a second-year undergraduate from Sri Lanka.
+I'm a second-year undergraduate from Sri Lanka. Passionate in tech, scientific thinking and open source development.
 
 - 🌱 I’m currently learning Front-end Frameworks
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -9,5 +9,9 @@ I'm a second-year undergraduate from Sri Lanka.
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@monarawila)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MadhawaMonara)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhawa97&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhawa97&theme=nord&hide=jupyter%20notebook,hack)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=madhawa97&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawa97&theme=nord&hide=jupyter%20notebook,hack"/>
+</div>
+
