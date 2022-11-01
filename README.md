@@ -2,7 +2,7 @@
 
 I'm a second-year undergraduate from Sri Lanka. Passionate in tech and digital creation.
 
-- 🌱 I’m currently UI designing using Figma & Adobe XD
+- 🌱 I’m currently learning UI designing using Figma & Adobe XD
 - 👯 I’m looking to collaborate on Open Source Projects
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhawamm/)
