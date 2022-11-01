@@ -1,8 +1,8 @@
-### Hello, I'm Madhawa 👋
+### Hello, I'm Udara 👋
 
-I'm a second-year undergraduate from Sri Lanka. Passionate in tech, scientific thinking and open source development.
+I'm a second-year undergraduate from Sri Lanka. Passionate in tech and digital creation.
 
-- 🌱 I’m currently learning Front-end Frameworks
+- 🌱 I’m currently UI designing using Figma & Adobe XD
 - 👯 I’m looking to collaborate on Open Source Projects
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhawamm/)
@@ -11,7 +11,7 @@ I'm a second-year undergraduate from Sri Lanka. Passionate in tech, scientific t
 
 
 <div>
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=madhawa97&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=UdaraNilupul&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawa97&theme=nord&hide=jupyter%20notebook,hack"/>
 </div>
 
