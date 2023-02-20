@@ -15,3 +15,4 @@ I'm a second-year undergraduate from Sri Lanka. Passionate in tech and digital c
   <img height="225" src="https://streak-stats.demolab.com?user=UdaraNilupul&theme=nord&mode=weekly"/>
 </div>
 
+[![Visitor Count](https://komarev.com/ghpvc/?username=UdaraNilupul&style=for-the-badge&color=blueviolet)]()
