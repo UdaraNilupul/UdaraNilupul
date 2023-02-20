@@ -12,5 +12,6 @@ I'm a second-year undergraduate from Sri Lanka. Passionate in tech and digital c
 <div>
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=UdaraNilupul&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraNilupul&theme=nord&hide=jupyter%20notebook,hack"/>
+  <img height="225" src="https://streak-stats.demolab.com?user=UdaraNilupul&theme=nord&mode=weekly"/>
 </div>
 
