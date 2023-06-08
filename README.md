@@ -4,7 +4,7 @@ I'm a second-year undergraduate from Sri Lanka. Passionate in tech and digital c
 
 - 🌱 I’m currently learning UI designing using Figma & Adobe XD
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🎓 Following National Diploma in Technology in IT at Institute of Technology University of Moratuwa.
+- 🎓 Following National Diploma in Technology in IT at University of Moratuwa-NDT.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udara-nilupul-2391151ba/)
 
